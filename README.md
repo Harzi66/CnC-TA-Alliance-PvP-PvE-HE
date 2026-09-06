@@ -1,4 +1,4 @@
-# CnC-TA Allianz PvP-PvE-HE
+# CnC-TA Alliance PvP-PvE-HE
 
 Erweiterung für **Command & Conquer: Tiberium Alliances**, die die PvP- und PvE-Ergebnisse der Mitglieder der **eigenen Allianz** direkt im Allianzfenster anzeigt.
 
