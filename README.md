@@ -93,10 +93,6 @@ Für jedes Allianzmitglied werden unter anderem folgende Informationen abgefragt
 
 Die Daten werden anschließend im Allianzfenster in eigenen Tabellen dargestellt.
 
-Die Kommunikation mit dem Spielserver erfolgt über:
-
-`GetPublicPlayerInfo`
-
 ---
 
 ## 🧩 Voraussetzungen
@@ -104,8 +100,9 @@ Die Kommunikation mit dem Spielserver erfolgt über:
 Benötigt werden:
 
 - **C&C Tiberium Alliances**
-- **Firefox oder ein anderer kompatibler Browser**
+- **Firefox, Chrom oder ein anderer kompatibler Browser**
 - **Tampermonkey**
+- **infernal Wrapper
 
 Das Script ist für die Verwendung als Tampermonkey-Userscript vorgesehen.
 
@@ -121,6 +118,7 @@ Falls noch nicht vorhanden, zunächst Tampermonkey im Browser installieren.
 
 Die Userscript-Datei:
 
+**infernal Wrapper
 **CnC-TA Allianz PvP-PvE - HE.user.js**
 
 in Tampermonkey installieren.
@@ -159,7 +157,7 @@ Dadurch kann Tampermonkey zukünftige Versionen automatisch erkennen.
 
 ## 📜 Version
 
-**Version:** 0.1.0
+**Version:** 0.6.0
 
 **Autor:** Harzi
 
