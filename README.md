@@ -100,9 +100,8 @@ Die Daten werden anschließend im Allianzfenster in eigenen Tabellen dargestellt
 Benötigt werden:
 
 - **C&C Tiberium Alliances**
-- **Firefox, Chrom oder ein anderer kompatibler Browser**
+- **Firefox, Chrome oder ein anderer kompatibler Browser**
 - **Tampermonkey**
-- **infernal Wrapper
 
 Das Script ist für die Verwendung als Tampermonkey-Userscript vorgesehen.
 
@@ -118,10 +117,11 @@ Falls noch nicht vorhanden, zunächst Tampermonkey im Browser installieren.
 
 Die Userscript-Datei:
 
-**infernal Wrapper
 **CnC-TA Allianz PvP-PvE - HE.user.js**
 
-in Tampermonkey installieren.
+kann direkt über das Repository installiert werden.
+
+urlCnC-TA Allianz PvP-PvE - HE.user.jshttps://raw.githubusercontent.com/Harzi66/CnC-TA-Alliance-PvP-PvE-HE/main/CnC-TA%20Alliance%20PvP-PvE%20-%20HE.user.js
 
 ### 3. C&C TA neu laden
 
@@ -133,7 +133,9 @@ Anschließend werden die zusätzlichen Reiter automatisch in den Allianzfenstern
 
 ## 🔄 Update
 
-Das Script enthält eine automatische Update-URL.
+Das Script enthält eine automatische Update-URL:
+
+`https://raw.githubusercontent.com/Harzi66/CnC-TA-Alliance-PvP-PvE-HE/main/CnC-TA%20Alliance%20PvP-PvE%20-%20HE.user.js`
 
 Dadurch kann Tampermonkey zukünftige Versionen automatisch erkennen.
 
@@ -174,6 +176,6 @@ Die zusätzlichen Informationen werden lediglich aus den vorhandenen Spieldaten 
 
 ## 🔗 Repository
 
-**CnC-TA-Allianz-PvP-PvE-HE**
+**CnC-TA-Alliance-PvP-PvE-HE**
 
-https://github.com/Harzi66/CnC-TA-Allianz-PvP-PvE-HE
+urlGitHub Repositoryhttps://github.com/Harzi66/CnC-TA-Alliance-PvP-PvE-HE
